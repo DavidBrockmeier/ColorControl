@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<monitors>
+  <monitor path="\\?\DISPLAY#GSMC0C8#5&amp;3707311a&amp;0&amp;UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" clamp_sdr="true" use_icc="false" icc_path="" calibrate_gamma="false" selected_gamma="0" custom_gamma="2.2" custom_percentage="100" target="0" disable_optimization="false" />
+</monitors>

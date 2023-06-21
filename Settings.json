@@ -1,0 +1,57 @@
+{
+  "StartMinimized": false,
+  "MinimizeOnClose": false,
+  "MinimizeToTray": false,
+  "CheckForUpdates": false,
+  "AutoInstallUpdates": false,
+  "UseDarkMode": false,
+  "DisplaySettingsDelay": 1000,
+  "ScreenSaverShortcut": "Shift, Control, Alt, Win + OemQuestion",
+  "FormWidth": 1926,
+  "FormHeight": 1053,
+  "NvPresetId_ApplyOnStartup": 0,
+  "AmdPresetId_ApplyOnStartup": 0,
+  "FixChromeFonts": false,
+  "UseGdiScaling": true,
+  "NvPresetsSortState": {
+    "SortOrder": 1,
+    "SortIndex": 6
+  },
+  "AmdPresetsSortState": {
+    "SortOrder": 0,
+    "SortIndex": 0
+  },
+  "LgPresetsSortState": {
+    "SortOrder": 0,
+    "SortIndex": 0
+  },
+  "GamePresetsSortState": {
+    "SortOrder": 0,
+    "SortIndex": 0
+  },
+  "NvQuickAccessShortcut": "Shift, Control, Alt, Win + OemMinus",
+  "AmdQuickAccessShortcut": null,
+  "LgQuickAccessShortcut": null,
+  "GameQuickAccessShortcut": null,
+  "UseDedicatedElevatedProcess": false,
+  "ElevationMethod": 1,
+  "ElevationMethodAsked": true,
+  "Modules": [
+    {
+      "IsActive": true,
+      "DisplayName": "NVIDIA controller"
+    },
+    {
+      "IsActive": false,
+      "DisplayName": "AMD controller"
+    },
+    {
+      "IsActive": true,
+      "DisplayName": "LG controller"
+    },
+    {
+      "IsActive": false,
+      "DisplayName": "Game launcher"
+    }
+  ]
+}

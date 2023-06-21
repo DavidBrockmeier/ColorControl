@@ -1,0 +1,534 @@
+[
+  {
+    "appId": null,
+    "steps": [
+      "1"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "1",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "2"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "2",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "3"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "3",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "4"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "4",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "5"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "5",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "6"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "6",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "7"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "7",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "8"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "8",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "9"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "9",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "0"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "0",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "POWER"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Power",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "WOL"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Wol",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": "com.webos.app.home",
+    "steps": [],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Home",
+    "shortcut": "H",
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": "com.palm.app.settings",
+    "steps": [],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Settings",
+    "shortcut": "S",
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": "com.webos.app.livemenu",
+    "steps": [],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "TV Guide",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "LIST"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "List",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "SAP"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "SAP",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "VOLUMEUP"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Vol +",
+    "shortcut": "VolumeUp",
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "VOLUMEDOWN"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Vol -",
+    "shortcut": "VolumeDown",
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "MUTE"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Mute",
+    "shortcut": "VolumeMute",
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "CHANNELUP"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Channel +",
+    "shortcut": "MediaNextTrack",
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "CHANNELDOWN"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Channel -",
+    "shortcut": "MediaPreviousTrack",
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "UP"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Up",
+    "shortcut": "Up",
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "DOWN"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Down",
+    "shortcut": "Down",
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "LEFT"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Left",
+    "shortcut": "Left",
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "RIGHT"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Right",
+    "shortcut": "Right",
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "ENTER"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Enter",
+    "shortcut": "Enter",
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "BACK"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Back",
+    "shortcut": "Back",
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "EXIT"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Exit",
+    "shortcut": "Escape",
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": "netflix",
+    "steps": [],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Netflix",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": "com.webos.app.homeconnect",
+    "steps": [],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Inputs",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": "amazon",
+    "steps": [],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Amazon Prime",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "RED"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Red",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "GREEN"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Green",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "YELLOW"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Yellow",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "BLUE"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Blue",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": "ui30",
+    "steps": [],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Rakuten TV",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "PLAY"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Play",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  },
+  {
+    "appId": null,
+    "steps": [
+      "PAUSE"
+    ],
+    "DeviceMacAddress": null,
+    "AppParams": null,
+    "name": "Pause",
+    "shortcut": null,
+    "Triggers": [],
+    "Description": null,
+    "ShowInQuickAccess": false,
+    "id": 0
+  }
+]
